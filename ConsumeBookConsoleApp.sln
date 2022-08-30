@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeBookConsoleApp", "ConsumeBookConsoleApp\ConsumeBookConsoleApp.csproj", "{BD1BD562-BEEB-4DEA-A905-1E9538E50115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1BD562-BEEB-4DEA-A905-1E9538E50115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1BD562-BEEB-4DEA-A905-1E9538E50115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1BD562-BEEB-4DEA-A905-1E9538E50115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1BD562-BEEB-4DEA-A905-1E9538E50115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE48488-D931-4807-AFF3-96A7D72D7480}
+	EndGlobalSection
+EndGlobal
